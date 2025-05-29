@@ -43,7 +43,6 @@ Go to Configuration > Targets
 
 Click New Target
 
-Set target as 127.0.0.1 (your local machine)
 
 Create a New Task (Scan Job)
 
@@ -86,4 +85,4 @@ Patch or upgrade commands
 Configurations to mitigate
 
 Official advisories or security bulletins
-7. Scan File Attached see Scan.txt
+7. Scan File Attached see OpenVas Scan report.pdf
