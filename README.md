@@ -31,8 +31,7 @@ Start GVM Services
 sudo gvm-check-setup
 sudo gvm-start
 Access the Web Interface
-Open your browser and go to:
-https://localhost:9392
+Open your browser and go to the link.
 Use the admin credentials generated during gvm-setup.
 Screenshot Attached Img1.
 
